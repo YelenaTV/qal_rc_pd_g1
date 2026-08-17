@@ -1,0 +1,2 @@
+Random text from file a. 
+Random text from file b. 
